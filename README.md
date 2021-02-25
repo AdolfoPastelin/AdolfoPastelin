@@ -9,7 +9,7 @@
 
 ## Spotify Playing 🎧
 
-[![](https://spotify-nowplaying-5wwlok9ct-adolfopastelin.vercel.app/api/spotify)]()
+[![](https://spotify-nowplaying-5wwlok9ct-adolfopastelin.vercel.app/api/spotify)](https://open.spotify.com)
 
 ## Technologies 💻
 
