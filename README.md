@@ -7,7 +7,7 @@
 - 📫 Contact me: adolfo.pe97@gmail.com
 - 🤙🏻 Hobbies: I like to play videogames in my free time. Also love to listen to House, electronic and rock music.
 
-## 🎧 Spotify Playing
+## Spotify Playing 🎧
 
 [![](https://spotify-nowplaying-5wwlok9ct-adolfopastelin.vercel.app/api/spotify)]()
 
