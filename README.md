@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-ecru.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com)
+[<img src="https://spotify-nowplaying-5wwlok9ct-adolfopastelin.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com)
 
 ### Technologies 💻
 
