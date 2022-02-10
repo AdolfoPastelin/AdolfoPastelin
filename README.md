@@ -1,4 +1,4 @@
-## Hey everyone, I'm Adolfo Pastelín 👋🏻
+## Hey everyone, I'm Adolfo Pastelin 👋🏻
 
 <img align="right" src="https://i.postimg.cc/pr6WqTgt/code-developer.gif" width="200">
 
@@ -7,10 +7,6 @@
 - 📫 Contact me: adolfo.pe97@gmail.com
 - 🤝🏻Connect with me: www.linkedin.com/in/adolfopastelin
 - 🤙🏻 Hobbies: I like to play video games in my free time. I also love to listen to House, electronic, and rock music.
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-nowplaying-5wwlok9ct-adolfopastelin.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com)
 
 ### Technologies 💻
 
