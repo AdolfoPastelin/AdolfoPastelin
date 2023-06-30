@@ -5,6 +5,12 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
 <br/>
 
 <div align="center">
+  <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_6767a6c35d72c38cf5f8050caf9eb962.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1688111488&Signature=YBP2ZhOL%2FFkE7tka0Yi4jBJ84Xc%3D" alt="Focused Developer Working." width="400" />
+</div>
+
+<br/>
+
+<div align="center">
   <p>
   🌱 Improving my web development skills bit by bit every day.
  </p>
@@ -42,7 +48,7 @@ Technologies
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,gulp,vite,js,ts,react,firebase,git,github,mysql,php,laravel,bash,linux,md&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,gulp,js,ts,react,nodejs,vite,git,github,firebase,mysql,linux,php,laravel,bash,md&perline=5" />
 </p>
 
 <br/>
