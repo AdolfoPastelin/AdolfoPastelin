@@ -5,6 +5,12 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
 <br/>
 
 <div align="center">
+  <img src="https://hackmd.io/_uploads/Bk6_Cc752.jpg" alt="Focused Developer Working." width="400" />
+</div>
+
+<br/>
+
+<div align="center">
   <p>
   🌱 Improving my web development skills bit by bit every day.
  </p>
