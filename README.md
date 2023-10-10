@@ -11,7 +11,10 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
 <br/>
 
 <div align="center">
-  <p>
+ <p>
+   <img src="https://www.codewars.com/users/Ruxell/badges/micro" />
+ </p>
+ <p>
   🌱 Improving my web development skills bit by bit every day.
  </p>
  <p>
