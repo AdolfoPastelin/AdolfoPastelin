@@ -4,8 +4,9 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
 
 <br/>
 
-<div align="center">
-  <img src="https://hackmd.io/_uploads/Bk6_Cc752.jpg" alt="Focused Developer Working." width="400" />
+<div align="right">
+  <a href="https://app.daily.dev/adolfopastelin"><img src="https://api.daily.dev/devcards/v2/NUctk3TLSFYuUod9pDVwS.png?type=wide&r=5o8" width="652" alt="Adolfo Pastelin Enciso's Dev Card"/></a>
+  <img src="https://hackmd.io/_uploads/Bk6_Cc752.jpg" alt="Focused Developer Working." width="350" />
 </div>
 
 <br/>
@@ -22,7 +23,7 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
  <a href="https://app.daily.dev/">Daily Dev.</a>
  </p>
  <p>
- 🎯 Seeking to work in real-world projects and elevate my expertise by developing innovative solutions.
+ 🎯 Seeking to create innovative solutions to real-world problems.
  </p>
 </div>
 
