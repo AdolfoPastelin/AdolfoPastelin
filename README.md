@@ -4,27 +4,36 @@ Hey everyone, I'm Adolfo Pastelin 👋🏻
 
 <br/>
 
-<div align="right">
-  <a href="https://app.daily.dev/adolfopastelin"><img src="https://api.daily.dev/devcards/v2/NUctk3TLSFYuUod9pDVwS.png?type=wide&r=5o8" width="652" alt="Adolfo Pastelin Enciso's Dev Card"/></a>
-  <img src="https://hackmd.io/_uploads/Bk6_Cc752.jpg" alt="Focused Developer Working." width="350" />
+<div align="center">
+  <a href="https://www.codewars.com/users/Ruxell/" target="_blank"><img src="https://www.codewars.com/users/Ruxell/badges/micro" alt="Codewars micro badge" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://hackmd.io/_uploads/Bk6_Cc752.jpg" alt="Focused Developer Working." width="400" />
 </div>
 
 <br/>
 
 <div align="center">
  <p>
-   <a href="https://www.codewars.com/users/Ruxell/" target="_blank"><img src="https://www.codewars.com/users/Ruxell/badges/micro" alt="Codewars micro badge" /></a>
- </p>
- <p>
   🌱 Improving my web development skills bit by bit every day.
  </p>
  <p>
- 💻 Continuously staying informed on IT-related subjects by reading articles available at
+ 💻 Continuously keeping myself updated by constantly reading articles on
  <a href="https://app.daily.dev/">Daily Dev.</a>
  </p>
  <p>
- 🎯 Seeking to create innovative solutions to real-world problems.
+ 🎯 Focused on creating innovative solutions to real-world problems.
  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://app.daily.dev/adolfopastelin"><img src="https://api.daily.dev/devcards/v2/NUctk3TLSFYuUod9pDVwS.png?type=wide&r=5o8" width="652" alt="Adolfo Pastelin Enciso's Dev Card"/></a>
+   </a>
 </div>
 
 <br/>
